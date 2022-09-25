@@ -1,0 +1,14 @@
+.intro-con {
+  background-color: blue;
+}
+.intro-con1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+  background-color: blue;
+  color: white;
+  font-size: 80px;
+  font-weight: 100px;
+  font-family: "Dancing Script", cursive;
+}
